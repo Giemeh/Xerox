@@ -75,3 +75,10 @@ Screen2 As screen:
         Y: =474
         ZIndex: =2
 
+    Label2 As label:
+        Fill: =RGBA(255, 255, 0, 1)
+        Text: ="push 2"
+        X: =939
+        Y: =546
+        ZIndex: =3
+
