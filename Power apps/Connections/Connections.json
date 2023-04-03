@@ -1,0 +1,30 @@
+{
+  "8fb7534b-43da-4678-9baa-022efb52aa18": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/juanq/gateway/greyhound/3000.150.11/1.0.1613.3116/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://fugtz.sharepoint.com/sites/Xerox": {
+        "dataSources": {
+          "NewTestList": {
+            "tableName": "3f22776c-26c3-4430-a052-c64e2f83acb1"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "NewTestList"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "8fb7534b-43da-4678-9baa-022efb52aa18"
+  }
+}
