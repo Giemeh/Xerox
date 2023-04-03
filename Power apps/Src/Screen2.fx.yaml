@@ -68,3 +68,10 @@ Screen2 As screen:
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
 
+    Label1 As label:
+        Fill: =RGBA(255, 255, 0, 1)
+        Text: ="push"
+        X: =939
+        Y: =474
+        ZIndex: =2
+
