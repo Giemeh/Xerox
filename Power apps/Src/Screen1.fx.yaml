@@ -533,3 +533,10 @@ Screen1 As screen:
         Y: =384
         ZIndex: =7
 
+    Label7 As label:
+        Fill: =RGBA(255, 0, 0, 1)
+        Text: ="Check 5"
+        X: =377
+        Y: =488
+        ZIndex: =8
+

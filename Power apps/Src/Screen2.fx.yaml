@@ -89,3 +89,10 @@ Screen2 As screen:
         Y: =40
         ZIndex: =4
 
+    Label6 As label:
+        Fill: =RGBA(255, 0, 0, 1)
+        Text: ="Check 4"
+        X: =952
+        Y: =128
+        ZIndex: =5
+
