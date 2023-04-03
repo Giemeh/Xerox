@@ -34,6 +34,7 @@
     "galleryTemplate1": 45,
     "Image1": 46,
     "Job Role_DataCard1": 25,
+    "Label1": 51,
     "Name_DataCard1": 10,
     "NextArrow1": 48,
     "Screen1": 3,
@@ -54,10 +55,10 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/03/2023 11:34:39",
+  "HeaderLastSavedDateTimeUTC": "04/03/2023 11:57:49",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "8fb7534b-43da-4678-9baa-022efb52aa18": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/1f0248ba103e4c0d9c71a439cb192ad2\""
+    "8fb7534b-43da-4678-9baa-022efb52aa18": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/5eb440b482044142a8e1765581effa5f\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -118,6 +119,7 @@
     "galleryTemplate1": {},
     "Image1": {},
     "Job Role_DataCard1": {},
+    "Label1": {},
     "Name_DataCard1": {},
     "NextArrow1": {},
     "Screen1": {},
@@ -171,6 +173,7 @@
     "galleryTemplate1": 40,
     "Image1": 41,
     "Job Role_DataCard1": 21,
+    "Label1": 0,
     "Name_DataCard1": 6,
     "NextArrow1": 43,
     "Screen1": 0,
@@ -195,7 +198,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.3281074,
+    "AnalysisLoadTime": 0.3131896,
     "ControlCount": {
       "attachments": 2,
       "button": 1,
@@ -211,7 +214,7 @@
       "text": 6,
       "typedDataCard": 7
     },
-    "DeserializationLoadTime": 3.6542218,
+    "DeserializationLoadTime": 0.846828,
     "ErrorCount": 10
   },
   "WasLocalDatabaseReferencesEmpty": true
