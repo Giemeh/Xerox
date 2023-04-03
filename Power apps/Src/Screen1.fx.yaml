@@ -519,13 +519,6 @@ Screen1 As screen:
         Y: =244
         ZIndex: =4
 
-    Label2 As label:
-        Fill: =RGBA(255, 0, 0, 1)
-        Text: ="Check"
-        X: =377
-        Y: =468
-        ZIndex: =5
-
     Label3 As label:
         Fill: =RGBA(255, 0, 0, 1)
         Text: ="check 2"
