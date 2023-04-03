@@ -526,3 +526,10 @@ Screen1 As screen:
         Y: =552
         ZIndex: =6
 
+    Label4 As label:
+        Fill: =RGBA(255, 255, 0, 1)
+        Text: ="Push 3"
+        X: =921
+        Y: =384
+        ZIndex: =7
+
