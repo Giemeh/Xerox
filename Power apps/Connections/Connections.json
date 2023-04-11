@@ -1,5 +1,8 @@
 {
   "8fb7534b-43da-4678-9baa-022efb52aa18": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
     "connectionRef": {
       "apiTier": "Standard",
       "displayName": "SharePoint",
