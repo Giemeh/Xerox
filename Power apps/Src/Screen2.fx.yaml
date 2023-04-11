@@ -110,3 +110,11 @@ Screen2 As screen:
         Y: =615
         ZIndex: =7
 
+    TextInput2 As text:
+        Default: ="check 5"
+        Fill: =RGBA(255, 0, 0, 1)
+        Height: =78
+        X: =898
+        Y: =238
+        ZIndex: =8
+
