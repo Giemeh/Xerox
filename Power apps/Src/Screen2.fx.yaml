@@ -104,9 +104,9 @@ Screen2 As screen:
         ZIndex: =6
 
     TextInput1 As text:
-        Default: ="check 6"
-        Fill: =RGBA(255, 0, 0, 1)
-        X: =924
-        Y: =219
+        Default: ="push 6"
+        Fill: =RGBA(255, 255, 0, 1)
+        X: =867
+        Y: =615
         ZIndex: =7
 
