@@ -103,3 +103,10 @@ Screen2 As screen:
         Y: =366
         ZIndex: =6
 
+    TextInput1 As text:
+        Default: ="push 6"
+        Fill: =RGBA(255, 255, 0, 1)
+        X: =867
+        Y: =615
+        ZIndex: =7
+
